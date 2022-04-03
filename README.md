@@ -15,6 +15,7 @@ Build | Code Quality | Git Inspector | code quality score | code grade |
 |---------|------------|-------------|--------------------|------------
 # Badge
 *Codacy - static code Analysis
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a1b673a827e149c6b822706f65d6496e)](https://app.codacy.com/gh/NehaIngle177/M1_ATM_Machine_System?utm_source=github.com&utm_medium=referral&utm_content=NehaIngle177/M1_ATM_Machine_System&utm_campaign=Badge_Grade_Settings)
 * [![Codacy Badge](https://app.codacy.com/project/badge/Grade/55863a830b5d4fb5b358a437d65cb009)](https://www.codacy.com/gh/NehaIngle177/M1_ATM_Machine_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NehaIngle177/M1_ATM_Machine_System&amp;utm_campaign=Badge_Grade)
 
 * Codiga - Static Analysis
